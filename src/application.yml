@@ -1,0 +1,9 @@
+name: Snake 2
+identifier: de.tobias.snake2
+version: '1.0'
+build: 6
+backup: false
+main: de.tobias.snake2.SnakeLauncher
+subMain: de.tobias.snake2.Snake
+updateURL: http://www.karate-bestensee.de/snake/
+iconPath: icon
