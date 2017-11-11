@@ -23,7 +23,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>de.tobias.snake2.Snake</mainClass>
+                            <mainClass>de.tobias.snake2.SnakeLauncher</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>
