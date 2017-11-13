@@ -4,8 +4,8 @@ Snake2 is a java game written java using slick2d (Seminararbeit, Hans-Riegel-Fac
 
 ## Screenshots
 ![home](https://tobisan.thecodelabs.de/projects/Snake2/Bildschirmfoto2017-11-11um20.22.08.png)
-![game1](https://tobisan.thecodelabs.de/projects/Snake2/Bildschirmfoto2017-11-11um20.22.08.png)
-![game1](https://tobisan.thecodelabs.de/projects/Snake2/Bildschirmfoto2017-11-11um20.22.08.png)
+![game1](https://tobisan.thecodelabs.de/projects/Snake2/Bildschirmfoto2017-11-11um20.22.15.png)
+![game2](https://tobisan.thecodelabs.de/projects/Snake2/Bildschirmfoto2017-11-11um20.22.35.png)
 
 ## Usage
 
